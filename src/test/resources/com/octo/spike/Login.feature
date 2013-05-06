@@ -1,6 +1,6 @@
 Feature: Login Screen
 
-  So that I want to connect and view my hello login message
+  So that I can connect and view my hello login message
   As a new user
   I want to create a new Account with secure password
 
